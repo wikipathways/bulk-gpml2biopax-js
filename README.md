@@ -11,7 +11,7 @@ and set the organism. Also, ensure testing mode is false. Then run the following
 node index.js
 ```
 
-The output BioPAX RDF/XML should be in test/biopax/source-all/...
+The BioPAX RDF/XML output should be in test/biopax/source-all/...
 
 ## Validate
 
