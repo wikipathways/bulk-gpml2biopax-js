@@ -29,4 +29,4 @@ Reports currently available on [pointer](http://pointer.ucsf.edu/d3/r/gpml2biopa
  rsync -azvh --delete ./test/biopax/ <YOUR_USERNAME>@pointer.ucsf.edu:/var/www/d3/r/gpml2biopax
  ```
  
- [Latest bulk upload](http://pointer.ucsf.edu/wp/biopax/wikipathways-human-v20150929-biopax3.zip)
+ [Latest bulk upload](http://pointer.ucsf.edu/wp/biopax/wikipathways-human-v20150929-biopax3.zip) of BioPAX (Homo sapiens only for now).
